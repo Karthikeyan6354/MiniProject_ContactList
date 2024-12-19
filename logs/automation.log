@@ -489,3 +489,51 @@
 23:09:22.781 [main] INFO  testCases.TC107_LogoutTest - click login button
 23:09:30.154 [main] INFO  testCases.TC107_LogoutTest - logged out
 23:09:30.154 [main] INFO  testCases.TC107_LogoutTest - ******TC107_LogoutTest Ends****
+23:24:12.557 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Karthi_July_29 Space\contactlist\testng.xml"
+23:24:12.844 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Karthi_July_29 Space\contactlist\testng.xml
+
+23:25:12.020 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Karthi_July_29 Space\contactlist\testng.xml"
+23:25:12.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Karthi_July_29 Space\contactlist\testng.xml
+
+23:25:15.953 [main] INFO  testCases.TC103_ContactAdditionTest - ******TC103_ContactAdditionTest Starts****
+23:25:15.953 [main] INFO  testCases.TC103_ContactAdditionTest - ......testContactListMandatoryfileds.....
+23:25:15.971 [main] INFO  testCases.TC103_ContactAdditionTest - Home Page
+23:25:16.222 [main] INFO  testCases.TC103_ContactAdditionTest - click login button
+23:25:19.310 [main] INFO  testCases.TC103_ContactAdditionTest - Contact List page
+23:25:19.873 [main] INFO  testCases.TC103_ContactAdditionTest - click add contact
+23:25:24.596 [main] INFO  testCases.TC103_ContactAdditionTest - provided the contact details
+23:25:24.705 [main] INFO  testCases.TC103_ContactAdditionTest - click submit button
+23:25:27.731 [main] INFO  testCases.TC103_ContactAdditionTest - redirected to contact list page
+23:25:27.739 [main] INFO  testCases.TC103_ContactAdditionTest - ....testContactListoptionalfileds.......
+23:25:27.739 [main] INFO  testCases.TC103_ContactAdditionTest - Contact List page
+23:25:28.310 [main] INFO  testCases.TC103_ContactAdditionTest - click add contact
+23:25:34.566 [main] INFO  testCases.TC103_ContactAdditionTest - ....testduplicateContactList.......
+23:25:34.571 [main] INFO  testCases.TC103_ContactAdditionTest - Contact List page
+23:25:35.162 [main] INFO  testCases.TC103_ContactAdditionTest - click add contact
+23:25:38.471 [main] INFO  testCases.TC103_ContactAdditionTest - Provided mandatory files for contact
+23:25:41.524 [main] INFO  testCases.TC103_ContactAdditionTest - Check for duplicate contact error
+23:25:42.672 [main] INFO  testCases.TC103_ContactAdditionTest - click add contact
+23:26:26.421 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\Karthi_July_29 Space\contactlist\testng.xml"
+23:26:26.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\Karthi_July_29 Space\contactlist\testng.xml
+
+23:26:29.699 [main] INFO  testCases.TC103_ContactAdditionTest - ******TC103_ContactAdditionTest Starts****
+23:26:29.699 [main] INFO  testCases.TC103_ContactAdditionTest - ......testContactListMandatoryfileds.....
+23:26:29.711 [main] INFO  testCases.TC103_ContactAdditionTest - Home Page
+23:26:30.442 [main] INFO  testCases.TC103_ContactAdditionTest - click login button
+23:26:33.533 [main] INFO  testCases.TC103_ContactAdditionTest - Contact List page
+23:26:34.147 [main] INFO  testCases.TC103_ContactAdditionTest - click add contact
+23:26:38.795 [main] INFO  testCases.TC103_ContactAdditionTest - provided the contact details
+23:26:38.872 [main] INFO  testCases.TC103_ContactAdditionTest - click submit button
+23:26:41.901 [main] INFO  testCases.TC103_ContactAdditionTest - redirected to contact list page
+23:26:41.922 [main] INFO  testCases.TC103_ContactAdditionTest - ....testContactListoptionalfileds.......
+23:26:41.922 [main] INFO  testCases.TC103_ContactAdditionTest - Contact List page
+23:26:42.547 [main] INFO  testCases.TC103_ContactAdditionTest - click add contact
+23:26:48.830 [main] INFO  testCases.TC103_ContactAdditionTest - ....testduplicateContactList.......
+23:26:48.830 [main] INFO  testCases.TC103_ContactAdditionTest - Contact List page
+23:26:49.412 [main] INFO  testCases.TC103_ContactAdditionTest - click add contact
+23:26:52.735 [main] INFO  testCases.TC103_ContactAdditionTest - Provided mandatory files for contact
+23:26:55.793 [main] INFO  testCases.TC103_ContactAdditionTest - Check for duplicate contact error
+23:26:56.902 [main] INFO  testCases.TC103_ContactAdditionTest - click add contact

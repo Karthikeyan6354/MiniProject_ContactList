@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC107_LogoutTest">
+      <class name="testCases.TC103_ContactAdditionTest">
         <methods>
           <include name="teardown"/>
           <include name="setup"/>
-          <include name="testLogout"/>
+          <include name="duplicateContactList"/>
         </methods>
-      </class> <!-- testCases.TC107_LogoutTest -->
+      </class> <!-- testCases.TC103_ContactAdditionTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
